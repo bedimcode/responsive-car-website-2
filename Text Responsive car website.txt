@@ -1,0 +1,27 @@
+========== HEADER ==========
+.nav__logo
+RaceCar
+
+.nav__link
+Home - About Us - Sponsors - TV channels - Contact Us
+
+
+========== HOME ==========
+.home__subtitle
+Let’s
+
+.home__title
+RACE
+
+.home__specs span
+302 MPH
+0 - 100 KM/H
+360 KW
+
+.home__button span
+Discover More
+
+.home__social-link
+https://twitter.com/
+https://www.instagram.com
+https://www.facebook.com/
